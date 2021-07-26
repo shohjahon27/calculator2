@@ -1,4 +1,7 @@
 .Calculator {
-  height: 100vh;
+  height: 90vh;
+  width: 60vh;
   display: block;
+  margin-top: 5vh;
+  margin-left: 10vh;
 }
