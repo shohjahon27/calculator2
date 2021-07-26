@@ -2,7 +2,7 @@
 
 ## calculator was built by Shokhjakhon Kholpulatov
 
-![Node.js CI](https://github.com/chamoda/react-calculator/workflows/Node.js%20CI/badge.svg)
+![Node.js CI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeadline.com%2F2020%2F06%2Fnetlix-boards-eone-kids-animation-alien-tv-1202949253%2F&psig=AOvVaw2oIc_mgnah1t9BJcTnTqEB&ust=1627412775015000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICA2ri3gfICFQAAAAAdAAAAABAE)
 
 Purpose of this project to learn basic React.
 
