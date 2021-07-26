@@ -2,7 +2,9 @@
 
 ## calculator was built by Shokhjakhon Kholpulatov
 
-![Node.js CI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeadline.com%2F2020%2F06%2Fnetlix-boards-eone-kids-animation-alien-tv-1202949253%2F&psig=AOvVaw2oIc_mgnah1t9BJcTnTqEB&ust=1627412775015000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICA2ri3gfICFQAAAAAdAAAAABAE)
+![Node.js CI][![Netlify Status](https://api.netlify.com/api/v1/badges/bab80769-5a8d-4da3-88c5-3ecbb66bf16b/deploy-status)](https://app.netlify.com/sites/calculatortworeact/deploys)
+
+
 
 Purpose of this project to learn basic React.
 
