@@ -2,7 +2,7 @@
 
 ## calculator was built by Shokhjakhon Kholpulatov
 
-![Node.js CI][![Netlify Status](https://api.netlify.com/api/v1/badges/bab80769-5a8d-4da3-88c5-3ecbb66bf16b/deploy-status)](https://app.netlify.com/sites/calculatortworeact/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bab80769-5a8d-4da3-88c5-3ecbb66bf16b/deploy-status)](https://app.netlify.com/sites/calculatortworeact/deploys)
 
 
 
